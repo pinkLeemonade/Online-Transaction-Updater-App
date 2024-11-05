@@ -1,2 +1,2 @@
 # Online-Transaction-Updater-App
-A two-part Android application that includes an SMS Generator and a Budget Watcher designed to monitor and analyze SMS notifications of financial transactions, enabling users to manage their spending effectively in near real-time.
+A two-part Android application that includes an SMS Generator and a Budget Watcher designed to monitor and analyze SMS notifications of financial transactions, enabling users to manage their spending effectively in near real-time.Ideal for tracking and visualizing financial activity directly from SMS notifications, the SMS Budget Tracker keeps users informed and in control of their finances as they spend.
